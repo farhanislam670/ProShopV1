@@ -1,0 +1,22 @@
+{
+  "name": "proshopv1",
+  "version": "1.0.0",
+  "description": "First MERN APP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhanislam670/ProShopV1.git"
+  },
+  "author": "Farhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/farhanislam670/ProShopV1/issues"
+  },
+  "homepage": "https://github.com/farhanislam670/ProShopV1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
